@@ -1,6 +1,6 @@
 # Coworking Space Header
 
-![Captura de pantalla del proyecto](/public/screenshots/screenshot.png
+![Captura de pantalla del proyecto](/public/screenshots/screenshot.png)
 
 
 ## Descripción
