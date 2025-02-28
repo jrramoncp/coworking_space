@@ -1,0 +1,22 @@
+.info{
+    display: flex;
+    justify-content: space-between;
+    article{
+        max-width: 512px;
+        height: 240px;
+        padding: 50px;
+    }
+    h3{
+        font-size: 26px;
+        line-height: 36px;
+        font-weight: 500;
+        margin-bottom: 8px;
+        margin-top: 8px;
+    }
+    p{
+        font-size: 18px;
+        max-width: 70%;
+        color: $color-gray;
+        line-height: 27px;
+    }
+}
