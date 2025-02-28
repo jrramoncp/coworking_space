@@ -2,13 +2,15 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 header img{
     max-width: 225px;
 }
 
+// NAV Y ASIDE COMMON STYLES
 .header-ul{
     display: flex;
     justify-content: space-around;
@@ -27,6 +29,8 @@ header img{
 
 }
 
+//NAV STYLES
+
 nav ul li{
     &:first-child{
         a{
@@ -35,6 +39,8 @@ nav ul li{
         
     }
 }
+
+//ASIDE SYLES
 
 aside{
     ul{
