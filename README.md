@@ -11,13 +11,11 @@ Este proyecto consiste en la creación de un encabezado (`header`) para un sitio
 
 ## Índice
 
-1. [Características](#características)
-2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Contribución](#contribución)
-6. [Licencia](#licencia)
-7. [Contacto](#contacto)
+1. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+2. [Instalación](#instalación)
+3. [Uso](#uso)
+5. [Objetivo del proyecto](#objetivo)
+6. [Contacto](#contacto)
 
 ---
 
